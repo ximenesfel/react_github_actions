@@ -1,4 +1,5 @@
 ![](https://github.com/ximenesfel/react_github_actions/workflows/CI/badge.svg?branch=develop&event=push)
+[![codecov](https://codecov.io/gh/ximenesfel/react_github_actions/branch/main/graph/badge.svg)](https://codecov.io/gh/ximenesfel/react_github_actions)
 
 # Getting Started with Create React App
 
