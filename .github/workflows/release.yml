@@ -1,5 +1,5 @@
 name: Notify on Realease
-on: 
+on:
   release:
     types: published
 
